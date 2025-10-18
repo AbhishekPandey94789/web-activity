@@ -1,0 +1,89 @@
+/* CSS using CLASS selectors for 10 elements */
+
+.header {
+  background-color: #2196F3;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.main-title {
+  font-size: 28px;
+  color: darkred;
+  text-align: center;
+}
+
+.intro {
+  color: #333;
+  font-size: 18px;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin: 20px auto;
+  border-radius: 15px;
+}
+
+.section {
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid #ddd;
+}
+
+.section1 {
+  background-color: #fff3e0;
+}
+
+.section2 {
+  background-color: #e0f2f1;
+}
+
+.text {
+  color: #444;
+}
+
+.list {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  list-style-type: square;
+}
+
+.list-item {
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 25px;
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #e64a19;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.nav-link {
+  color: yellow;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
